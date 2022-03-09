@@ -1,0 +1,11 @@
+D:\monthu4\ktra\ktra\bin\Debug\ktra.exe.config
+D:\monthu4\ktra\ktra\bin\Debug\ktra.exe
+D:\monthu4\ktra\ktra\bin\Debug\ktra.pdb
+D:\monthu4\ktra\ktra\obj\Debug\ktra.csproj.AssemblyReference.cache
+D:\monthu4\ktra\ktra\obj\Debug\ktra.csproj.SuggestedBindingRedirects.cache
+D:\monthu4\ktra\ktra\obj\Debug\ktra.Form1.resources
+D:\monthu4\ktra\ktra\obj\Debug\ktra.Properties.Resources.resources
+D:\monthu4\ktra\ktra\obj\Debug\ktra.csproj.GenerateResource.cache
+D:\monthu4\ktra\ktra\obj\Debug\ktra.csproj.CoreCompileInputs.cache
+D:\monthu4\ktra\ktra\obj\Debug\ktra.exe
+D:\monthu4\ktra\ktra\obj\Debug\ktra.pdb
